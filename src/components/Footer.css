@@ -1,0 +1,60 @@
+.forms{
+  padding-bottom: 7rem;
+}
+.heading {
+  text-align: center;
+  color: black;
+  padding-top: 6rem;
+}
+.heading h1 {
+  font-size: 1.8rem;
+  line-height: 1rem;
+}
+.heading p {
+  color: grey;
+}
+.heading hr {
+  width: 3rem;
+  background-color: #f89980;
+  color: #f89980;
+  border-color: #f89980;
+}
+.inputs form{
+    padding-left: 35%;
+    padding-top: 1.9rem;
+}
+.inputs input{
+    width: 34rem;
+    height: 3.8rem;
+    margin:1.3rem
+}
+#submit{
+    background-color: #f89980;
+    border-radius: 2rem;
+    color: white;
+}
+.phone{
+  text-align: center;
+  padding-top: 1.4rem;
+}
+.phone i{
+  font-size: 2.6rem;
+  line-height: 5rem;
+  align-items: center;
+}
+#message{
+  height: 10rem;
+}
+.final{
+  background-color: #F8F9FA;
+  height: 7rem;
+  text-align: center;
+}
+.inputs input::placeholder{
+  color: black;
+
+}
+.final p{
+  padding-top: 2.7rem;
+  color: grey;
+}

@@ -1,0 +1,21 @@
+.black{
+    text-align: center;
+    height: 26rem;
+    padding-top: 4rem;
+    background-color: #212529;
+    color: white;
+
+}
+.text{
+    padding-top: 6rem;
+}
+.text h1{
+    font-size: 2rem;
+}
+.text button {
+    font-size: 1rem;
+    width: 12rem;
+    height: 3.2rem;
+    border-radius: 2rem;
+    margin-top: 3rem;
+}

@@ -1,0 +1,68 @@
+header{
+    background-image: url("https://startbootstrap.github.io/startbootstrap-creative/assets/img/bg-masthead.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  nav{
+    width: 100%;
+    position: fixed;
+    justify-content: center;
+  }
+  .navbar{
+    justify-content: center;
+    background-color: black;
+    display: flex;
+    height: 5rem;
+  
+  }
+  .navbar h3{
+   padding-right: 20rem;
+    color: white;
+    margin-top: -15%;
+  }
+  .list ul{
+    margin-left: 10vh;
+    list-style: none;
+    display: flex;
+    margin-top: -2%;
+  }
+  .list ul li{
+    margin-left: 10%;
+    flex-wrap: wrap;
+  }
+  .list ul li a{
+    color: white;
+    text-decoration: none;
+  }
+  .center{
+    text-align: center;
+    padding-top: 19rem;
+    
+    color: white;
+  }
+  .center h1{
+    font-size: 2.7rem;
+  }
+  .center hr{
+    width: 3rem;
+    color: red;
+    border-color:red ;
+  
+  }
+  .center button{
+    margin-top: 4rem;
+    background-color: red;
+    border-color: red;
+    color: white;
+    height: 3.2rem;
+    width: 10rem;
+    font-weight: 400;
+    border-radius: 2rem;
+    margin-top: 2rem;
+    cursor: pointer;
+  }

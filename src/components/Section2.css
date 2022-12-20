@@ -1,0 +1,27 @@
+.red{
+    text-align: center;
+    padding-top: 10rem;
+    background-color: #F4623A;
+    color: white;
+    padding-bottom: 10rem;
+  }
+  .red h1{
+    font-size: 1.8rem;
+  }
+  .red hr{
+    width: 3rem;
+    color: white;
+    border-color:white ;
+  
+  }
+  .red button{
+    margin-top: 4rem;
+    height: 3.2rem;
+    width: 10rem;
+    font-weight: 400;
+    border-radius: 2rem;
+    margin-top: 2rem;
+    cursor: pointer;
+    font-size: 1rem;
+    border-color: white;
+  }
